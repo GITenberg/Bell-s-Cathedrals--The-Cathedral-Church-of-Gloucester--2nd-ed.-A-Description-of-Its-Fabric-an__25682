@@ -1,0 +1,31 @@
+_repo: Bell-s-Cathedrals--The-Cathedral-Church-of-Gloucester--2nd-ed.-A-Description-of-Its-Fabric-an__25682
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Massé, H. J. L. J. (Henri Jean Louis Joseph)
+    aliases:
+    - Massé, Henri Jean Louis Joseph
+    - Masse, H. J. L. J. (Henri Jean Louis Joseph)
+    - H. J. L. J. Massé
+    birthdate: 1860
+    gutenberg_agent_id: '31515'
+    url: http://www.gutenberg.org/2009/agents/31515
+description: ''
+gutenberg_issued: '2008-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25682'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NA'
+- !lcsh 'Gloucester Cathedral'
+title: 'Bell''s Cathedrals: The Cathedral Church of Gloucester [2nd ed.]
+
+  A Description of Its Fabric and A Brief History of the Espicopal See'
+url: http://www.gutenberg.org/ebooks/25682
